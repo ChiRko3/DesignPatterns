@@ -1,0 +1,3 @@
+Here both OffRoadVehicle and Sporty Vehicle need different drive functionality than vehicle,
+it turns out that although they are different from vehicle , but they are using the same functionality,
+this leads to code duplication!
