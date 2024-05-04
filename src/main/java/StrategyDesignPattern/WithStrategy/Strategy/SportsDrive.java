@@ -1,4 +1,4 @@
-package org.StrategyDesignPattern.WithStrategy.Strategy;
+package StrategyDesignPattern.WithStrategy.Strategy;
 
 public class SportsDrive implements DriveStrat{
     @Override
